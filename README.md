@@ -28,13 +28,13 @@ The computer randomly chooses **Rock, Paper, or Scissors**, and the winner is de
 Compile the program:
 
 ```bash
-gcc main.c -o game
+gcc main.c -o rock-paper-scissors
 ```
 
 Run it:
 
 ```bash
-./game
+./rock-paper-scissors
 ```
 
 ## ⚡ Author
